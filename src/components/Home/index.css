@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home {
+  height: 50px;
+  width: 50px;
+}
